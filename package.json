@@ -1,6 +1,6 @@
 {
   "name": "containership.core",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "The core functionality of Containership",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,7 @@
     "flat": "^1.6.0",
     "lodash": "^4.17.4",
     "mkdirp": "^0.5.1",
-    "myriad-kv": "^1.0.0",
+    "myriad-kv": "^1.0.1",
     "node-uuid": "^1.4.7",
     "ohai-data": "^0.1.0",
     "request": "^2.51.0",
